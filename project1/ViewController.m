@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"this is project1");
+    
+    NSLog(@"perper merge");
 }
 
 
